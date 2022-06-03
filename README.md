@@ -1,16 +1,25 @@
 # UCSDUnfoldingMaps
 This project is an interactive GUI that displays earth quack data on a map that is built using UnfoldingMaps library. 
-## Introduction
+## Introduction   
+
+This application is a project I have done in the context of the Object-Oriented Programming in Java course offered by UCSSD - Coursera.
+The final version and complete version are in the src-module6 folder. other modules represent building one feature of the application at a time.    
 
 ## Demo
 
 ![Demo](Demo/demo.gif)
 
-## Features
+## Features      
 
-## UML diagram for Class hierarchy
+1- Displaying earthquakes on the map.
+2- By clicking on a city, all other earthquakes will disappear except the one(s) that affects that city, and a little box will appear showing information about the earthquakes.
+3- By clicking on earthquakes, all other earthquakes will disappear.  All cities will disappear except the one(s) that the earthquake affects.
+4- Zoom in/out using mouse/ keyboard.
+5- Surfing the map using the mouse/keyboard.
+6 - Sorting the earthquakes according to their magnitude.
+7- Count the number of earthquakes that every country had.
 
-## What next
+## UML diagram for Class hierarchy 
 
 ## Requirements
 - Java 1.8 JDK
