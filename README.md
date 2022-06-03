@@ -11,13 +11,13 @@ The final version and complete version are in the src-module6 folder. other modu
 
 ## Features      
 
-1-Displaying earthquakes on the map.
-2-By clicking on a city, all other earthquakes will disappear except the one(s) that affects that city, and a little box will appear showing information about the earthquakes.
-3-By clicking on earthquakes, all other earthquakes will disappear.  All cities will disappear except the one(s) that the earthquake affects.
-4-Zoom in/out using mouse/ keyboard.
-5-Surfing the map using the mouse/keyboard.
-6-Sorting the earthquakes according to their magnitude.
-7-Count the number of earthquakes that every country had.
+1. Displaying earthquakes on the map.    
+2. By clicking on a city, all other earthquakes will disappear except the one(s) that affects that city, and a little box will appear showing information about the earthquakes.
+3. By clicking on earthquakes, all other earthquakes will disappear.  All cities will disappear except the one(s) that the earthquake affects.
+4. Zoom in/out using mouse/ keyboard.
+5. Surfing the map using the mouse/keyboard.
+6. Sorting the earthquakes according to their magnitude.
+7. Count the number of earthquakes that every country had.
 
 ## UML diagram for Class hierarchy 
 
